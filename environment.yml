@@ -1,0 +1,17 @@
+name: fair-calibrate-v1.4-comparison
+channels:
+  - chrisroadmap
+  - conda-forge
+dependencies:
+  - fair==2.1.3
+  - h5py
+  - jupyter
+  - matplotlib
+  - nbstripout
+  - netCDF4
+  - numpy
+  - pandas
+  - pooch
+  - scipy
+  - tqdm
+  - xarray
