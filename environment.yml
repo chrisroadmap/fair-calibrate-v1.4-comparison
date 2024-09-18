@@ -14,5 +14,9 @@ dependencies:
   - pooch
   - python-dotenv
   - scipy
+  - scmdata
   - tqdm
   - xarray
+  - pip
+  - pip:
+    - aneris-iamc[units]
