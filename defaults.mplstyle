@@ -1,4 +1,4 @@
-font.size           : 8
+font.size           : 7
 font.family         : Arial
 ytick.direction     : in
 ytick.minor.visible : True
